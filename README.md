@@ -1,2 +1,2 @@
-# kio-ed
-rust文本编辑器
+# rust_os
+rust_os 练习
